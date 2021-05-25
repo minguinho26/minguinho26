@@ -4,6 +4,7 @@
 - 📫 How to reach me : send email to "minkyu4506@gmail.com" or visit https://minkyukim26.github.io
 
 -공부한 내용들
+<br>
 Faster R-CNN리뷰 with code : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code#rpn-학습시키기
 
 <!---
