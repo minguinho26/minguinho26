@@ -1,13 +1,7 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyuKim26)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinkyuKim26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/민규-김-24a946188/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minkyu4506@gmail.com)](mailto:snugyun01@gmail.com) 
+
 - 👋 Hi, I’m Minkyu Kim.
 - 👀 I’m interested in Deep learning, Especially Computer Vision
-- 🌱 I’m currently learning Electrical engineering and Deep learning
-- 📫 How to reach me : send email to "minkyu4506@gmail.com" or visit https://velog.io/@minkyu4506
-
--공부한 내용들
-<br>
-Faster R-CNN리뷰 with code : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code#rpn-학습시키기
-
-<!---
-MinkyuKim26/MinkyuKim26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+	
