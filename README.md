@@ -5,5 +5,5 @@
 - 👋 Hi, I’m Minkyu Kim.
 - 👀 I’m interested in Deep learning, Especially Computer Vision
 
-[![Tensorflow Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28136518)
+![Tensorflow Badge](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/28136518)
 	
