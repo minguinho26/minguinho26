@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m Minkyu Kim.
 - 👀 I’m interested in Deep learning, Especially Computer Vision
-- ✍️I'm studying Electronic Electrical engineering at CAU in South Korea (2017~)
+- ✍️I'm studying Electronic Electrical engineering at Chung-ang University (2017~)
 
 <br>
 <br>
