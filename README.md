@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square"/></a> &nbsp 
 
 - 👋 Hi, I’m Minkyu Kim.
-- 👀 I’m interested in Deep learning, Especially Computer Vision
-- ✍️I'm studying Electronic Electrical engineering at Chung-ang University (2017~)
+- 👀 I’m interested in Object Detection, Image Reconstruction
+- ✍️I'm studying Electronic and Electrical engineering at Chung-ang University (2017~)
 
 <br>
 <br>
