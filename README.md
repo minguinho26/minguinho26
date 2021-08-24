@@ -11,7 +11,7 @@
 
 - 👋 Hi, I’m Minkyu Kim.
 - 👀 I’m interested in Object Detection, Image Reconstruction
-- ✍️I'm studying Electrical & Electronics Engineering at Chung-ang University (2017~)
+- ✍️I'm studying Electrical & Electronics Engineering at Chung-Ang University (2017~)
 
 <br>
 My paper review list(Korean🇰🇷)
