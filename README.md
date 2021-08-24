@@ -16,11 +16,14 @@
 <br>
 My paper review list(Korean🇰🇷)
 
-Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code (with code implemented by using tensorflow2)
-Multi-Modal Fusion Transformer for End-to-End Autonomous Driving(Transfuser) : https://velog.io/@minkyu4506/논문리뷰-Multi-Modal-Fusion-Transformer-for-End-to-End-Autonomous-Driving
-You Only Look Once: Unified, Real-Time Object Detection(YOLO v1) : https://velog.io/@minkyu4506/YOLO-v1-리뷰-코드-구현tensorflow2 (with code implemented by using tensorflow2)
-Dynamic Head: Unifying Object Detection Heads with Attentions : https://velog.io/@minkyu4506/논문리뷰-Dynamic-Head-Unifying-Object-Detection-Heads-with-Attentions
-
+Faster R-CNN : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code (with code implemented by using tensorflow2)
+<br>
+Transfuser : https://velog.io/@minkyu4506/논문리뷰-Multi-Modal-Fusion-Transformer-for-End-to-End-Autonomous-Driving
+<br>
+YOLO v1 : https://velog.io/@minkyu4506/YOLO-v1-리뷰-코드-구현tensorflow2 (with code implemented by using tensorflow2)
+<br>
+Dynamic Head : https://velog.io/@minkyu4506/논문리뷰-Dynamic-Head-Unifying-Object-Detection-Heads-with-Attentions
+<br>
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/민규-김-24a946188/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minkyu4506@gmail.com)](mailto:snugyun01@gmail.com)  <a href="https://velog.io/@minkyu4506" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> <a href="https://www.facebook.com/profile.php?id=100012826216294" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a> 
