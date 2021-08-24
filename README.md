@@ -17,11 +17,11 @@
 My paper review list(Korean🇰🇷)
 <br>
 <br>
-Faster R-CNN : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code (with code implemented by using tensorflow2)
+Faster R-CNN(with code implemented by using tensorflow2) : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code 
 <br>
 Transfuser : https://velog.io/@minkyu4506/논문리뷰-Multi-Modal-Fusion-Transformer-for-End-to-End-Autonomous-Driving
 <br>
-YOLO v1 : https://velog.io/@minkyu4506/YOLO-v1-리뷰-코드-구현tensorflow2 (with code implemented by using tensorflow2)
+YOLO v1(with code implemented by using tensorflow2) : https://velog.io/@minkyu4506/YOLO-v1-리뷰-코드-구현tensorflow2 
 <br>
 Dynamic Head : https://velog.io/@minkyu4506/논문리뷰-Dynamic-Head-Unifying-Object-Detection-Heads-with-Attentions
 <br>
