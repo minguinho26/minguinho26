@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square"/></a> &nbsp 
 
 
-Minkyu Kim
+## Minkyu Kim
+<br>
 <br>
 E-mail : minkyu4506@gmail.com
 <br>
@@ -19,13 +20,19 @@ Site : https://velog.io/@minkyu4506
 Interested : Any task of Computer Vision using Deep learning algorithm
 
 Education 
---
-2017.03 ~ present : Electrical & Electronics Engineering at Chung-Ang University
+---
+2017.03 ~ present : **Electrical & Electronics Engineering at Chung-Ang University**
 
 <br>
 Experience
 ---
-
+**CUAI(Chung-Ang University, 중앙대학교 인공지능 학회), 2021.03 ~ present**
+<br>
+* paper implement using tensroflow : Faster R-CNN, YOLO 
+<br>
+<br>
+**CAU-CMVL Summer Seminar 2021**
+* paper review : Transfuser, Dynamic Head
 
 <br>
 My paper review list(Korean🇰🇷)
