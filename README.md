@@ -9,9 +9,21 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square"/></a> &nbsp 
 
-- 👋 Hi, I’m Minkyu Kim.
-- 👀 I’m interested in Object Detection, Image Reconstruction
-- ✍️I'm studying Electrical & Electronics Engineering at Chung-Ang University (2017~)
+
+Minkyu Kim
+E-mail : minkyu4506@gmail.com
+Site : https://velog.io/@minkyu4506
+
+Interested : Any task of Computer Vision using Deep learning algorithm
+
+Education 
+--
+2017.03 ~ present : Electrical & Electronics Engineering at Chung-Ang University
+
+<br>
+Experience
+---
+
 
 <br>
 My paper review list(Korean🇰🇷)
