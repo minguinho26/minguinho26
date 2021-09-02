@@ -11,9 +11,11 @@
 
 
 Minkyu Kim
+<br>
 E-mail : minkyu4506@gmail.com
+<br>
 Site : https://velog.io/@minkyu4506
-
+<br>
 Interested : Any task of Computer Vision using Deep learning algorithm
 
 Education 
