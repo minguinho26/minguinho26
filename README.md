@@ -19,17 +19,11 @@ Site : https://velog.io/@minkyu4506
 <br>
 Interested : Any task of Computer Vision using Deep learning algorithm
 
-**Education**
-
----
-
+### Education
 2017.03 ~ present : **Electrical & Electronics Engineering at Chung-Ang University**
 
 <br>
-**Experience**
-
----
-
+### Experience
 **CUAI(Chung-Ang University, 중앙대학교 인공지능 학회), 2021.03 ~ present**
 <br>
 * paper implement using tensroflow : Faster R-CNN, YOLO 
