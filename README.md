@@ -24,11 +24,10 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 
 
 ### Experience
-**CUAI(Chung-Ang University, 중앙대학교 인공지능 학회), 2021.03 ~ present**
-<br>
+CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
 * paper implement using tensroflow : Faster R-CNN, YOLO 
 
-**CAU-CMVL Summer Seminar 2021**
+CAU-CMVL Summer Seminar 2021
 * paper review : Transfuser, Dynamic Head
 
 <br>
