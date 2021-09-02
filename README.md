@@ -23,6 +23,7 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 2017.03 ~ present : **Electrical & Electronics Engineering at Chung-Ang University**
 
 <br>
+
 ### Experience
 <br>
 **CUAI(Chung-Ang University, 중앙대학교 인공지능 학회), 2021.03 ~ present**
