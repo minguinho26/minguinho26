@@ -24,6 +24,7 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 
 <br>
 ### Experience
+<br>
 **CUAI(Chung-Ang University, 중앙대학교 인공지능 학회), 2021.03 ~ present**
 <br>
 * paper implement using tensroflow : Faster R-CNN, YOLO 
@@ -33,7 +34,7 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 * paper review : Transfuser, Dynamic Head
 
 <br>
-My paper review list(Korean🇰🇷)
+### My paper review list(Korean🇰🇷)
 <br>
 <br>
 Faster R-CNN(with code implemented by using tensorflow2) : https://velog.io/@minkyu4506/Faster-R-CNN-리뷰-with-Code 
