@@ -27,6 +27,8 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
 <br>
 [CAU-CMVL Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07~2021.08
+<br>
+
 
 
 ### My paper review list(Korean🇰🇷)
