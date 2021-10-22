@@ -31,7 +31,7 @@ CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 
 <br>
 [CAU-CMVL Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07~2021.08
 <br>
-Research Intern, Computer Vision Lab at Korea Univ, 2021.09 ~ present
+Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ present
 
 
 ### My paper review (Korean🇰🇷) : [here](https://velog.io/@minkyu4506/series/논문-리뷰-구현)
