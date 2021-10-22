@@ -23,7 +23,8 @@ Interested : Any task of Computer Vision using Deep learning algorithm
 2017.03 ~ present : **Electrical & Electronics Engineering at Chung-Ang University**
 
 ### Certificate
- [Tensorflow Developer Certificate](https://www.credential.net/9aa40377-85e4-4913-8fec-aafd61cd87c0)
+
+<img src="https://img.shields.io/badge/-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> [Tensorflow Developer Certificate](https://www.credential.net/9aa40377-85e4-4913-8fec-aafd61cd87c0) (2021.1)
 
 ### Experience
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
