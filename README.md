@@ -8,8 +8,8 @@
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square"/></a> &nbsp 
-
-
+<img src="https://img.shields.io/badge/-Matlab-00C85D.svg?logo=matlab&style=flat-square"/></a> &nbsp 
+  
 ## Minkyu Kim
 <br>
 
