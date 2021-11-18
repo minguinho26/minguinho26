@@ -6,6 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Unity-000000.svg?logo=unity&style=flat-square"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Matlab-00C85D.svg?logo=matlab&style=flat-square"/></a> &nbsp 
@@ -36,3 +37,8 @@ Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.0
 
 
 ### paper review (Korean🇰🇷) : [here](https://velog.io/@minkyu4506/series/논문-리뷰-구현)
+
+
+<!--
+EE4C2C는 핵스 색상 코드
+--!>
