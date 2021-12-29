@@ -18,8 +18,6 @@
 
 <br>
 
-E-mail : [minkyu4506@gmail.com](mailto:minkyu4506@gmail.com)
-
 Interested : Any task of Computer Vision using Deep learning algorithm
 
 ### Education
