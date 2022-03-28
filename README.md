@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-Matlab-00C85D.svg?logo=matlab&style=flat-square"/></a> &nbsp 
 
   
-![](https://github.com/MinkyuKim26/github_stats/blob/master/generated/overview.svg) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyuKim26)](https://github.com/anuraghazra/github-readme-stats) 
 ![](https://github.com/MinkyuKim26/github_stats/blob/master/generated/languages.svg)</p>
 
 ### Education
