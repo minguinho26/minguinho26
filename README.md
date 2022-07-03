@@ -37,7 +37,7 @@ CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 
 Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ 2021.12
 
 <!--
-Research Intern, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2021.07 ~ present
+Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2021.07 ~ present
 -->
 
 
