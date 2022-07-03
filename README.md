@@ -35,10 +35,8 @@ CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 
 [CAU-CVML Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07~2021.08
 <br>
 Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ 2021.12
-
-<!--
+<br>
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2021.07 ~ present
--->
 
 
 
