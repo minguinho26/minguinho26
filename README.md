@@ -14,8 +14,6 @@
 
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyuKim26)](https://github.com/anuraghazra/github-readme-stats) 
-![](https://github.com/MinkyuKim26/github_stats/blob/master/generated/overview.svg)</p> <br>
-
 
 ### Education
 
