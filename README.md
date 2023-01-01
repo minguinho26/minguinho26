@@ -17,7 +17,7 @@
 
 ### Education
 
-2017.03 ~ present : [**Electrical & Electronics Engineering at Chung-Ang University**](http://e3home.cau.ac.kr)
+2017.03 ~ 2023.02 : [**Electrical & Electronics Engineering at Chung-Ang University**](http://e3home.cau.ac.kr)
 
 <br>
 
