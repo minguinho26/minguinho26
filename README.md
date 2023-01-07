@@ -17,13 +17,14 @@
 
 ### Education
 
-2017.03 ~ 2023.02 : [**Electrical & Electronics Engineering at Chung-Ang University**](http://e3home.cau.ac.kr)
+2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
+2023.02 ~ : [**Graduate School of AI at POSTECH**](https://ai.postech.ac.kr)
 
 <br>
 
 ### Certificate
 
-[TensorFlow Developer Certificate](https://www.credential.net/9aa40377-85e4-4913-8fec-aafd61cd87c0)(2021.1)
+[TensorFlow Developer Certificate](https://www.credential.net/9aa40377-85e4-4913-8fec-aafd61cd87c0)(2021.1 ~ 2023.1)
 
 <br>
 
