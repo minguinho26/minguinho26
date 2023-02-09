@@ -18,7 +18,7 @@
 ### Education
 
 2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
-2023.02 ~ : [**Graduate School of AI at POSTECH**](https://ai.postech.ac.kr)
+2023.02 ~ : [**Graduate School of AI at POSTECH**](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)
 
 <br>
 
@@ -46,10 +46,6 @@ Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI La
 2021 CUAI Summer Conference - Implement YOLOv1 using Tensorflow and PyTorch [[link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)]
 <br>
 2021 CUAI Winter Conference - Make a program which determine the scalp's condition [[link](https://github.com/CUAI-CAU/OhMyHead)]
-
-<br>
-
-### My paper review (Korean🇰🇷) : [here](https://velog.io/@minkyu4506/series/논문-리뷰-구현)
 
 
 </div>
