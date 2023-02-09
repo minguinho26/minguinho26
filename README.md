@@ -22,12 +22,6 @@
 
 <br>
 
-### Certificate
-
-[TensorFlow Developer Certificate](https://www.credential.net/9aa40377-85e4-4913-8fec-aafd61cd87c0)(2021.1 ~ 2023.1)
-
-<br>
-
 ### Experience
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
 <br>
