@@ -1,9 +1,6 @@
-<div align=center>
- 
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=auto&text=MinkyuKim&height=200&fontSize=60&desc=&descAlignY=75&descAlign=60)
-  
+
 <h3 align="center">🛠</h3>
-  
+   
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a> &nbsp
@@ -11,27 +8,25 @@
 <img src="https://img.shields.io/badge/c-AB232C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/-Matlab-00C85D.svg?logo=matlab&style=flat-square"/></a> &nbsp 
+</p>
 
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyuKim26)](https://github.com/anuraghazra/github-readme-stats) 
+<br>
 
 ### Education
 
 2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
-2023.02 ~ : [**Graduate School of AI at POSTECH**](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)
+**2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee ([EffL(Efficient Learning) Lab](https://effl.notion.site)))**
 
 <br>
 
 ### Experience
-CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ present
+CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ 2023.02
 <br>
-[CAU-CVML Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07~2021.08
+[CAU-CVML Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07 ~ 2021.08
 <br>
 Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ 2021.12
 <br>
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2022.07 ~ 2022.08
-
-
 
 <br>
 
