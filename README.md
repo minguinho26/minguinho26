@@ -15,7 +15,7 @@
 ### Education
 
 2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
-**2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee ([EffL(Efficient Learning) Lab](https://effl.notion.site)))**
+**2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)**
 
 <br>
 
@@ -27,6 +27,8 @@ CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 
 Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ 2021.12
 <br>
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2022.07 ~ 2022.08
+<br>
+**Researcher, [EffL(Efficient Learning) Lab at POSTECH](https://effl.notion.site), 2023.02 ~ present**
 
 <br>
 
