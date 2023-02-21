@@ -12,6 +12,11 @@
 
 <br>
 
+###  News🎉🎉
+My paper was accepted to the 2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)!
+
+<br>
+
 ### Education
 
 2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
