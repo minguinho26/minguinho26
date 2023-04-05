@@ -13,7 +13,8 @@
 <br>
 
 ###  News🎉🎉
-My paper was accepted to the 2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)! (2023.2)
+My paper was accepted to the 2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)! (2023.2) 
+[paper link](https://arxiv.org/abs/2303.17489)
 
 <br>
 
