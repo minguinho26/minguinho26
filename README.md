@@ -13,15 +13,20 @@
 <br>
 
 ###  News🎉🎉
-My paper was accepted to the 2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)! (2023.2) 
-[paper link](https://arxiv.org/abs/2303.17489)
+My paper was accepted to the [2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)](https://2023.ieeeicassp.org)!
+[[paper](https://ieeexplore.ieee.org/document/10096877)] [[arXiv](https://arxiv.org/abs/2303.17489)] <br>
+➡️ **Selected as Oral presentation,  Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media**
 
 <br>
 
 ### Education
 
-2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
+2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) (Cum Laude) <br>
 **2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)**
+
+### Publication
+
+**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP, 2023
 
 <br>
 
