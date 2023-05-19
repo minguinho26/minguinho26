@@ -15,7 +15,7 @@
 ###  News🎉🎉
 My paper was accepted to the [2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)](https://2023.ieeeicassp.org)!
 [[paper](https://ieeexplore.ieee.org/document/10096877)] [[arXiv](https://arxiv.org/abs/2303.17489)] <br>
-➡️ **Selected as Oral presentation,  Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media**
+➡️ **Selected as Oral presentation & Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media**
 
 <br>
 
