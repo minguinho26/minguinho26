@@ -39,7 +39,7 @@ Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.0
 <br>
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2022.07 ~ 2022.08
 <br>
-**Researcher, [EffL(Efficient Learning) Lab at POSTECH](https://effl.notion.site), 2023.02 ~ present**
+**Researcher, [EffL(Efficient Learning) Lab at POSTECH](https://effl.postech.ac.kr), 2023.02 ~ present**
 
 <br>
 
@@ -47,7 +47,7 @@ Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI La
 
 2021 CUAI Summer Conference - Implement YOLOv1 using Tensorflow and PyTorch [[link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)]
 <br>
-2021 CUAI Winter Conference - Make a program which determine the scalp's condition [[link](https://github.com/CUAI-CAU/OhMyHead)]
+2021 CUAI Winter Conference - Make a program which determines the scalp's condition [[link](https://github.com/CUAI-CAU/OhMyHead)]
 
 
 </div>
