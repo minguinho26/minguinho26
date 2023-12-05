@@ -24,13 +24,22 @@ My paper was accepted to the [2023 IEEE International Conference on Acoustics, S
 2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) (Cum Laude) <br>
 **2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)**
 
+<br>
+
 ### Publication
 
 **Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP, 2023
 
 <br>
 
+### Research Activities
+Peer review, IEEE/ACM Transactions on Audio, Speech, and Language Processing, 2023
+
+<br>
+
 ### Experience
+
+
 CUAI(Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ 2023.02
 <br>
 [CAU-CVML Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07 ~ 2021.08
