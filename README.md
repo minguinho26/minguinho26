@@ -32,11 +32,6 @@ My paper was accepted to the [2023 IEEE International Conference on Acoustics, S
 
 <br>
 
-### Research Activities
-Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023
-
-<br>
-
 ### Experience
 
 
@@ -58,5 +53,11 @@ Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI La
 <br>
 2021 CUAI Winter Conference - Make a program which determines the scalp's condition [[link](https://github.com/CUAI-CAU/OhMyHead)]
 
-
 </div>
+
+<br>
+
+### Services
+Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023
+
+
