@@ -12,10 +12,9 @@
 
 <br>
 
-###  News🎉🎉
-My paper was accepted to the [2023 IEEE International Conference on Acoustics, Speech & Signal Processing (ICASSP)](https://2023.ieeeicassp.org)!
-[[paper](https://ieeexplore.ieee.org/document/10096877)] [[arXiv](https://arxiv.org/abs/2303.17489)] <br>
-➡️ **Selected as Oral presentation & Media coverage: covered by [Yonhap News](https://www.yna.co.kr/view/AKR20230413134500017?input=1195m), [SBS](https://news.sbs.co.kr/news/endPage.do?news_id=N1007153798&plink=ORI&cooper=NAVER), and many local media**
+###  News🎉🎉 
+
+My paper was accepted to the [2024 International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024)! [[arXiv](https://arxiv.org/abs/2403.02944)] <br>
 
 <br>
 
@@ -27,6 +26,8 @@ My paper was accepted to the [2023 IEEE International Conference on Acoustics, S
 <br>
 
 ### Publication
+
+Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
 
 **Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP, 2023
 
