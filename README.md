@@ -27,7 +27,7 @@ My paper was accepted to the [2024 International Conference on Machine Learning 
 
 Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, "Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity", ICML, 2024
 
-**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP, 2023
+**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, "PREFIX TUNING FOR AUTOMATED AUDIO CAPTIONING", ICASSP **[Oral]**), 2023
 
 <br>
 
