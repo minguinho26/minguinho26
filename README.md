@@ -46,16 +46,6 @@ Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI La
 
 <br>
 
-### Project
-
-2021 CUAI Summer Conference - Implement YOLOv1 using Tensorflow and PyTorch [[link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)]
-<br>
-2021 CUAI Winter Conference - Make a program which determines the scalp's condition [[link](https://github.com/CUAI-CAU/OhMyHead)]
-
-</div>
-
-<br>
-
 ### Services
 Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023, 2024
 
