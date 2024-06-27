@@ -18,7 +18,7 @@ My paper was accepted to the [2024 International Conference on Machine Learning 
 
 ### Education
 
-2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) (Cum Laude) <br>
+2017.03 ~ 2023.02 : [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr) <br>
 **2023.02 ~ present : [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee)**
 
 <br>
