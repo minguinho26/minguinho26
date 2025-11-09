@@ -34,10 +34,13 @@ Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
 
 <br>
 
-### Experience
+### Work Experience
 
-**Researcher, [AITRICS](https://aitrics.com/kr/), 2025.11 ~**
+**Researcher, [AITRICS](https://aitrics.com/kr/), 2025.11 ~ Now**
 <br>
+
+
+### Academic Experience
 Researcher, [EffL(Efficient Learning) Lab at POSTECH](https://effl.postech.ac.kr), 2023.02 ~ 2025.06
 <br>
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2022.07 ~ 2022.08
