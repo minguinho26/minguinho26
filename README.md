@@ -16,27 +16,10 @@ My paper was accepted to the [2024 International Conference on Machine Learning 
 
 <br>
 
-### Education
-
-2023.02 ~ 2025.08 : MS in [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee) <br>
-2017.03 ~ 2023.02 : BS in [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr)
-
-
-<br>
-
-### Publication
-
-(* equal contribution)
-
-Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io/), ICML, 2024
-
-**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, ["Prefix tuning for automated audio captioning"](https://prefixaac.github.io/), ICASSP **[Oral]**, 2023
-
-<br>
-
 ### Work Experience
 
 **Researcher, [AITRICS](https://aitrics.com/kr/), 2025.11 ~ Now**
+
 <br>
 
 
@@ -53,7 +36,24 @@ CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능
 
 <br>
 
+### Publication
+
+(* equal contribution)
+
+Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io/), ICML, 2024
+
+**Minkyu Kim***, Kim Sung-Bin*, Tae-Hyun Oh, ["Prefix tuning for automated audio captioning"](https://prefixaac.github.io/), ICASSP **[Oral]**, 2023
+
+<br>
+
 ### Services
 Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023, 2024
+
+<br>
+
+### Education
+
+2023.02 ~ 2025.08 : MS in [Graduate School of AI at POSTECH](https://ai.postech.ac.kr)(Advisor : Prof. Jaeho Lee) <br>
+2017.03 ~ 2023.02 : BS in [Electrical & Electronics Engineering at Chung-Ang University](http://e3home.cau.ac.kr)
 
 
