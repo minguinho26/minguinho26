@@ -12,7 +12,8 @@
 
 ###  News🎉🎉 
 
-My paper was accepted to the [2024 International Conference on Machine Learning (ICML)](https://icml.cc/Conferences/2024)! [[arXiv](https://arxiv.org/abs/2403.02944)] <br>
+
+My paper was accepted to the [Interspeech 2026](https://interspeech2026.org/en-AU)! <br>
 
 <br>
 
@@ -39,6 +40,8 @@ CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능
 ### Publication
 
 (* equal contribution)
+
+Jean Seo*, Minkyu Kim*, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, "When Multiple Scripts Matter: Evaluating ASR in Clinical Settings", Interspeech, 2026 [Paper will be available soon]
 
 Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io/), ICML, 2024
 
