@@ -41,7 +41,7 @@ CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능
 
 (* equal contribution)
 
-Jean Seo*, **Minkyu Kim***, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, "When Multiple Scripts Matter: Evaluating ASR in Clinical Settings", Interspeech, 2026 [Paper will be available soon]
+Jean Seo*, **Minkyu Kim***, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, ["When Multiple Scripts Matter: Evaluating ASR in Clinical Settings"](https://github.com/aitrics-ronaldo/Interspeech_MultiClin), Interspeech, 2026
 
 Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee, ["Neural Image Compression with Text-guided Encoding for both Pixel-level and Perceptual Fidelity"](https://taco-nic.github.io/), ICML, 2024
 
