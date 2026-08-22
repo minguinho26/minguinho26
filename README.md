@@ -13,7 +13,7 @@
 ###  News🎉🎉 
 
 
-My paper was accepted to the [Interspeech 2026](https://interspeech2026.org/en-AU)! <br>
+My paper was accepted to the [EMNLP 2026](https://2026.emnlp.org/)! <br>
 
 <br>
 
@@ -40,6 +40,8 @@ CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능
 ### Publication
 
 (* equal contribution)
+
+**Minkyu Kim**, Juhwan Choi, YoungBin Kim, "Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines", EMNLP, 2026
 
 Jean Seo*, **Minkyu Kim***, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, ["When Multiple Scripts Matter: Evaluating ASR in Clinical Settings"](https://github.com/aitrics-ronaldo/Interspeech_MultiClin), Interspeech, 2026
 
