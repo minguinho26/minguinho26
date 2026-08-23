@@ -54,6 +54,8 @@ Hagyeong Lee*, **Minkyu Kim***, Jun-Hyuk Kim, Seungeon Kim, Dokwan Oh, Jaeho Lee
 ### Services
 Peer review, [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing), 2023, 2024
 
+Peer review, [AdaptFM: Resource-Adaptive Foundation Model Inference](https://adaptfm.gitlab.io/), 2026
+
 <br>
 
 ### Education
