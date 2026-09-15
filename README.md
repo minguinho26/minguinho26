@@ -10,10 +10,11 @@
 
 <br>
 
-###  News🎉🎉 
+###  Recent news🎉🎉 
 
+**[2026.09]** Released [Evalmetry](https://github.com/minguinho26/evalmetry)! A framework built for LLM researchers to run standard benchmarks and simultaneously collect deep internal states (e.g., logits, hidden states).
 
-My paper was accepted to the [EMNLP 2026](https://2026.emnlp.org/) (Findings)! <br>
+**[2026.08]** Two papers accepted to EMNLP 2026 (one to Main track, one to Findings)!
 
 <br>
 
@@ -26,13 +27,13 @@ My paper was accepted to the [EMNLP 2026](https://2026.emnlp.org/) (Findings)! <
 
 ### Academic Experience
 Researcher, [EffL(Efficient Learning) Lab at POSTECH](https://effl.postech.ac.kr), 2023.02 ~ 2025.06
-<br>
+
 Undergraduate Research Fellowship, [Algorithmic Machine Intelligence Lab (AMI Lab.) at POSTECH](https://ami.postech.ac.kr), 2022.07 ~ 2022.08
-<br>
+
 Research Intern, [Computer Vision Lab at Korea Univ](https://kuaicv.com), 2021.09 ~ 2021.12
-<br>
+
 [CAU-CVML Summer Seminar 2021](https://sites.google.com/view/cau-cvml/cvmlcau/seminar2021s?authuser=0), 2021.07 ~ 2021.08
-<br>
+
 CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능 학회), 2021.03 ~ 2023.02
 
 <br>
@@ -42,6 +43,8 @@ CUAI (Chung-Ang University Artificial Intelligence, 중앙대학교 인공지능
 (* equal contribution)
 
 **Minkyu Kim**, Juhwan Choi, YoungBin Kim, ["Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines"](https://arxiv.org/abs/2608.29589), EMNLP Findings, 2026
+
+Vincent-Daniel Yun\*, Youngrae Kim\*, Woosang Lim\*, Youngjin Heo, **Minkyu Kim**, Sunwoo Lee, "Locality-Aware Redundancy Pruning for LLM Depth Compression", EMNLP Main, 2026
 
 Jean Seo*, **Minkyu Kim***, Jeonguk Lee, Jisoo Jung, Wooseok Han, Eunho Yang, ["When Multiple Scripts Matter: Evaluating ASR in Clinical Settings"](https://github.com/aitrics-ronaldo/Interspeech_MultiClin), Interspeech, 2026
 
