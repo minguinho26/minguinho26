@@ -1,7 +1,7 @@
 
 
 
-###  Recent news🎉🎉 
+###  Recent news 🎉🎉 
 
 **[2026.09]** Released [Evalmetry](https://github.com/minguinho26/evalmetry)! A framework built for LLM researchers to run standard benchmarks and simultaneously collect deep internal states (e.g., logits, hidden states).
 
